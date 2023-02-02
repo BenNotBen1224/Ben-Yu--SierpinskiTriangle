@@ -49,8 +49,3 @@ public void DownSierpinski(float x, float y, int length){
     }
 }
 */
-    else
-      triangle(x - length/2, y + length/2, //left-bottom
-               x, y - 2*length/2, //top
-               x + length/2, y + length/2); //right-bottom
-}
